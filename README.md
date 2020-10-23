@@ -1,6 +1,6 @@
 ---
 title: PAGE TITLE HERE
-layout: default
+layout: template
 filename: NAME OF THIS .md FILE HERE
 --- 
 # pages-test
