@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-pg [read](README.md).
+pg [read](README).
 
 You can use the [editor on GitHub](https://github.com/harithmanoj/pages-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
